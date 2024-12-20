@@ -6,14 +6,14 @@
 
 ---
 
-🚀 ** My Interests**: 
-- Programming
+### 🚀 **My Interests**: 
+- Programming 💻
 - Football ⚽
 -  Drawing 🎨
 - Movies 🎥
 - Books 📚
 - Games 🎮
-- Enjoying time with Family & Friends
+- Enjoying time with Family & Friends 👥
 
 ---
 
