@@ -28,5 +28,3 @@
 ### **🌐 Find Me Online**  
 - [LinkedIn](https://www.linkedin.com/in/joaocabral/)  
 - [Instagram](https://www.instagram.com/joaocabral04/)
-
----
