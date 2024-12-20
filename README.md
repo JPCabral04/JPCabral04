@@ -3,7 +3,17 @@
 🌍 **From**: São José dos Campos, SP, Brazil  
 🎓 **Education**: Computer Engineering at **UNIFEI**  
 💻 **Currently**: Developer at **Asimov Jr.** (nonprofit junior enterprise)  
-🚀 **Interests**: Software Development, Artificial Intelligence, and Open Source  
+
+---
+
+🚀 ** My Interests**: 
+- Programming
+- Football ⚽
+-  Drawing 🎨
+- Movies 🎥
+- Books 📚
+- Games 🎮
+- Enjoying time with Family & Friends
 
 ---
 
