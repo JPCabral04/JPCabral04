@@ -2,7 +2,6 @@
 
 🌍 **From**: São José dos Campos, SP, Brazil  
 🎓 **Education**: Computer Engineering at **UNIFEI**  
-💻 **Currently**: Developer at **Asimov Jr.** (nonprofit junior enterprise)  
 
 ---
 
